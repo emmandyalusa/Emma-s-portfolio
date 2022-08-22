@@ -927,6 +927,9 @@ button:focus {
   margin-top: 60px; }
   .copy_right_text p a {
     color: #766dff; }
+  .copy{
+    margin-top: 2.5rem;
+  }
 
 /* End Footer Area css
 ============================================================================================ */
